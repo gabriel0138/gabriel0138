@@ -10,16 +10,9 @@
 
 ---
 
-```text
-       /\          gabriel0138@redteam-node
-      /  \         ------------------------
-     / /\ \        OS: Kali Linux / BlackArch x86_64
-    / /  \ \       Host: Back-End & Offensive Security Operator
-   / /    \ \      Kernel: Go (Golang) / Docker / Linux
-  / /      \ \     Shell: zsh (Custom Dark Theme)
- /_/        \_\    Target: REST APIs & Red/Purple Team Pentesting
-                   Status: ENCRYPTED & ACTIVE
-```
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=FFFFFF&center=true&vCenter=true&width=550&lines=gabriel0138%40redteam-node%3A~%24+fastfetch+--profile+security;OS%3A+Kali+Linux+%2F+BlackArch+x86_64;Kernel%3A+Go+(Golang)+%2F+Docker+%2F+Linux;Shell%3A+zsh+(Custom+Dark+Theme);Target%3A+High-Performance+REST+APIs+%26+Pentest;Status%3A+ENCRYPTED+%26+ACTIVE" alt="Fastfetch Animated Terminal" />
+</div>
 
 ---
 
@@ -73,7 +66,7 @@
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=gabriel0138&theme=dark&background=000000&hide_border=true" height="170" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel0138&theme=dark&hide_border=true&bg_color=000000&text_color=ffffff&title_color=ffffff" height="175" alt="Top Languages" />
 </div>
 
 <br>
