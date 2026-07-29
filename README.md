@@ -14,15 +14,25 @@ gabriel0138@redteam:~# ./whoami.sh
 [+] User: Gabriel (gabriel0138)
 [+] Role: Back-End Developer & Offensive Security Enthusiast
 [+] Operations: Red Team / Purple Team & High-Performance Microservices
-[+] Security Status: ACTIVE & READY FOR DEPLOYMENT
+[+] Security Status: ENCRYPTED & ACTIVE
 ```
 
-[![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00FF66?style=for-the-badge&logo=statuspage&logoColor=black)](https://github.com/gabriel0138)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VIEW%20PROJECTS-FF0055?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/gabriel0138?tab=repositories)
+<p align="center">
+  <a href="https://github.com/gabriel0138">
+    <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-white?style=for-the-badge&color=000000&labelColor=000000&logoColor=white" alt="Status" />
+  </a>
+  <a href="https://github.com/gabriel0138?tab=repositories">
+    <img src="https://img.shields.io/badge/PORTFOLIO-VIEW%20PROJECTS-white?style=for-the-badge&color=000000&labelColor=000000&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
 </div>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="58%" valign="top">
 
 ### 📡 System Manifest `[YAML]`
 
@@ -35,35 +45,43 @@ profile:
 specializations:
   backend_engineering:
     language: "Go (Golang), Node.js"
-    architecture: "APIs RESTful, Microservices, Event-Driven Systems"
-    infrastructure: "Docker, MySQL, Linux Systems"
+    architecture: "APIs RESTful, Microservices"
+    infrastructure: "Docker, MySQL, Linux"
     
   offensive_security:
     role: "Red Team / Purple Team Operator"
-    focus: "Pentest, Vulnerability Assessment, Web App Security"
+    focus: "Pentest, Vulnerability Assessment"
     environment: "Kali Linux, Automated Security Tooling"
 
 mission:
   statement: "Construindo microsserviços escaláveis em Go enquanto audito e reforço a segurança de aplicações de ponta a ponta."
 ```
 
+    </td>
+    <td width="42%" align="center" valign="top">
+      <br/>
+      <img src="./assets/profile_glitch.jpg" width="100%" alt="Cyber Dark Artwork" />
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### 🛠️ Tech Stack & Arsenal
 
 #### **Languages & Core Infrastructure**
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&color=000000&labelColor=000000&logoColor=white&logo=go" alt="Go" />
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&color=000000&labelColor=000000&logoColor=white&logo=nodedotjs" alt="Node.js" />
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&color=000000&labelColor=000000&logoColor=white&logo=docker" alt="Docker" />
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&color=000000&labelColor=000000&logoColor=white&logo=mysql" alt="MySQL" />
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&color=000000&labelColor=000000&logoColor=white&logo=linux" alt="Linux" />
 
-#### **Offensive Security & Red/Purple Team Arsenal**
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0275D8?style=for-the-badge&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-1B6AC6?style=for-the-badge&logo=metasploit&logoColor=white)
+#### **Offensive Security & Red/Purple Team**
+<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&color=000000&labelColor=000000&logoColor=white&logo=kalilinux" alt="Kali Linux" />
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&color=000000&labelColor=000000&logoColor=white&logo=nmap" alt="Nmap" />
+<img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&color=000000&labelColor=000000&logoColor=white&logo=wireshark" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&color=000000&labelColor=000000&logoColor=white&logo=burpsuite" alt="Burp Suite" />
+<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&color=000000&labelColor=000000&logoColor=white&logo=metasploit" alt="Metasploit" />
 
 ---
 
@@ -71,12 +89,20 @@ mission:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gabriel0138&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gabriel's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel0138&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=gabriel0138&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=30363d&count_private=true" alt="Gabriel's GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel0138&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=30363d" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel0138&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel0138&background=0d1117&border=30363d&stroke=30363d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" width="100%" />
 
 </div>
 
@@ -86,10 +112,17 @@ mission:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel0138)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabriel0138)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel@example.com)
+<a href="https://linkedin.com/in/gabriel0138">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&color=000000&labelColor=000000&logoColor=white&logo=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://github.com/gabriel0138">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&color=000000&labelColor=000000&logoColor=white&logo=github" alt="GitHub" />
+</a>
+<a href="mailto:gabriel@example.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&color=000000&labelColor=000000&logoColor=white&logo=gmail" alt="Email" />
+</a>
 
+<br/><br/>
 <sub>*Terminating connection... EOF*</sub>
 
 </div>
