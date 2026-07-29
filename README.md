@@ -1,17 +1,11 @@
 <div align="center">
   <p align="center">
-    <img src="assets/notre_dame.jpg" alt="Cathédrale Notre-Dame de Paris" width="100%">
-  </p>
-  <p align="center"><sub><i>Cathédrale Notre-Dame de Paris</i></sub></p>
-
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Back-End+Developer+%7C+Go+%26+Node.js;Red+%26+Purple+Team+Security;ADS+Student+%7C+UNIP;loading..." />
+    <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Back-End+Developer+%7C+Go+%26+Node.js;Red+%26+Purple+Team+Security;ADS+Student+%7C+UNIP;loading..." />
   </p>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-dos-santos-alves-647850354)
   [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.alves0138@gmail.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://gabriel0138.github.io)
-
 </div>
 
 ---
@@ -32,7 +26,7 @@
 <br>
 
 <p align="left">
-  <img src="assets/statue_bio.jpg" align="right" width="220" style="margin-left: 20px; border-radius: 10px;">
+  <img src="assets/kali_dragon.svg" align="right" width="180" style="margin-left: 20px;">
   <div>
     <p><b>Back-End Developer & Offensive Security Student</b></p>
     Estudante de Análise e Desenvolvimento de Sistemas (UNIP), focado no desenvolvimento de APIs de alta performance com <b>Go (Golang) e Node.js</b>, arquitetura de microsserviços, <b>Docker</b> e bancos de dados relacionais.
@@ -79,8 +73,11 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriel0138&show_icons=true&theme=dark&hide_border=true" height="170" />
-  <img src="https://streak-stats.demolab.com?user=gabriel0138&theme=dark&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=gabriel0138&theme=dark&background=000000&hide_border=true" height="170" alt="Streak Stats" />
 </div>
 
 <br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabriel0138&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+</p>
